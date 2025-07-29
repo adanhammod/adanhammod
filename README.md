@@ -10,13 +10,7 @@ Currently seeking my first opportunity as a Software Developer.
 - Databases: MySQL, MongoDB
 - Tools & Platforms: Linux, Git, ROS2, Docker, GAZEBO
 
-## Areas of Interest
-- Real-time systems and robotics
-- Machine learning and AI agents
-- Full-stack development
-- Algorithms and optimization
-
-## Selected Projects
+## Projects
 
 - [AI Game Agent](https://github.com/adanhammod/pawn-game)  
   A game-playing AI agent built using the Minimax algorithm with Alpha-Beta pruning for efficient decision-making.
