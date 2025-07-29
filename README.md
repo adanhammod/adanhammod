@@ -6,7 +6,7 @@ Currently seeking my first opportunity as a Software Developer.
 
 ## Technical Skills
 - Programming Languages: Python, Java, C++, JavaScript
-- Web Development: React.js, Node.js, MongoDB
+- Web Development: React.js, Node.js
 - Databases: MySQL, MongoDB
 - Tools & Platforms: Linux, Git, ROS2, Docker, GAZEBO
 
