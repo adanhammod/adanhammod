@@ -5,7 +5,7 @@ I am passionate about software development, artificial intelligence, and buildin
 Currently seeking my first opportunity as a Software Developer.
 
 ## Technical Skills
-- Programming Languages: Python, Java, C++, JavaScript
+- Programming Languages: Python, Java, C++, C, Assembly
 - Web Development: React.js, Node.js
 - Databases: MySQL, MongoDB
 - Tools & Platforms: Linux, Git, ROS2, Docker, GAZEBO
