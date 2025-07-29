@@ -18,6 +18,9 @@ Currently seeking my first opportunity as a Software Developer.
 - [Autonomous Drone Simulation](https://github.com/moataz189/real_time_system-project)
   <br>Collaborated with another student to develop an autonomous drone simulation in Python, using the GAZEBO simulator for the 3D environment, YOLOv7 for object detection, and ROS2 for inter-process communication.nProgrammed the drone to complete a complex mission: navigate to a predefined starting point, detect a specific object (a chair), and perform a precise, safe landing. Enabled real-time input adjustments, significantly improving the drone’s adaptability to dynamic environmental changes.
 
+- [Emergency Response System – Assistance Platform](https://github.com/moataz189/All-Together-Information-System)<br>
+   Developed a Java-based client-server application using TCP/IP, enabling secure, real-time community assistance requests and volunteer offers. Integrated a MySQL database to manage user information, alerts, and volunteer coordination.
+
 ## Contact
 - Email: [adanhammod@gmail.com](mailto:adanhammod@gmail.com)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/adan-hammod/)
