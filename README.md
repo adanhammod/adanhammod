@@ -21,6 +21,11 @@ Currently seeking my first opportunity as a Software Developer.
 - [Emergency Response System – Assistance Platform](https://github.com/moataz189/All-Together-Information-System)<br>
    Developed a Java-based client-server application using TCP/IP, enabling secure, real-time community assistance requests and volunteer offers. Integrated a MySQL database to manage user information, alerts, and volunteer coordination.
 
+ - [Real-Time Clock App](https://adanhammod.pythonanywhere.com/)<br>
+  A simple web-based digital clock built with HTML, CSS, and JavaScript and deployed on PythonAnywhere.
+
+  
+
 ## Contact
 - Email: [adanhammod@gmail.com](mailto:adanhammod@gmail.com)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/adan-hammod/)
